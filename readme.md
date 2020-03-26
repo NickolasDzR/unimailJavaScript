@@ -1,1 +1,1 @@
-<h2>unimail using onlu javascript(without jquery)</h2>
+<h2>unimail using only javascript(without jquery)</h2>
